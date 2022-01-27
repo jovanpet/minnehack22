@@ -1,3 +1,5 @@
+![gif](00_00.gif)
+
 ## Inspiration
 Our project was inspired by a creative interpretation of the prompt. The traditional digital security model has us hiding our passwords, the key to our digital privacy, behind walls of encryption and in isolation. What if we could build a tool that leverages AI to analyze a password’s strength, generate a secure encrypted image from it, and pit user’s best passwords against each other in a digital artwork contest? Our group’s love of CUDA leveraged AI generation techniques, scratch built web design, digital artwork, and raw competition inspired us to create this unique piece of software.
 ## What it does
