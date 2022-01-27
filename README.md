@@ -17,7 +17,7 @@ Our project serves mostly as a proof of concept, there is so much more we could 
 A code repository for projects created during Minnehack 2022 This repository does not include the machine learning libraries, those can be found here:
 https://github.com/afiaka87/clip-guided-diffusion
 
-##To run the server use:
+## To run the server use:
 ```shell
 > node server.js
 ```
